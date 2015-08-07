@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "d3d wrapper", "d3d wrapper.vcproj", "{414D9D39-4C46-4612-8AB6-FFDF7A1735C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414D9D39-4C46-4612-8AB6-FFDF7A1735C2}.Release|Win32.ActiveCfg = Release|Win32
+		{414D9D39-4C46-4612-8AB6-FFDF7A1735C2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

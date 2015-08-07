@@ -1,0 +1,27 @@
+
+1 VERSIONINFO
+FILEVERSION 5,3,1,902
+PRODUCTVERSION 0,0,0,0
+FILEOS 0x0
+FILETYPE 0x0
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "00000000"
+	{
+		VALUE "", ""
+		VALUE "", ""
+		VALUE "", ""
+		VALUE "", ""
+		VALUE "", ""
+		VALUE "", ""
+		VALUE "", ""
+		VALUE "", ""
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0000 0x0000
+}
+}
